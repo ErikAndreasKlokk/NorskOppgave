@@ -1,1 +1,8 @@
-<script>import "../app.pcss";</script><slot></slot>
+<script>
+    import "../app.pcss";
+    import Watermark from "./watermark.svelte";
+
+</script>
+
+<Watermark/>
+<slot/>
