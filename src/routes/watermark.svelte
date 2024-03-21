@@ -1,1 +1,1 @@
-<p class=" fixed bottom-0 left-0 font-bold text-gray-900/80 p-2 z-50 ">copyright @ Erik Andreas Klokk</p>
+<p class=" fixed bottom-0 left-0 font-bold text-gray-900/0 p-2 z-50 ">copyright @ Erik Andreas Klokk</p>
